@@ -5,9 +5,10 @@
 					<select class="form-control input-width" id="hasRevAccount">
 						<option value="">请选择</option>
 						<option value="1">有</option>
-						<option value="12">无</option>
 
-<option value="34">无是多少</option>
+						<option value="2">无</option>
+<option value="3">未知</option>
+
 
 					</select>
 				</div>
