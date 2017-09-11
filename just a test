@@ -1,0 +1,14 @@
+  ```
+<div class="col-xs-3 col-md-3">
+				<div class="block float_left">
+					<span class=""></span>有无收款账号
+					<select class="form-control input-width" id="hasRevAccount">
+						<option value="">请选择</option>
+						<option value="1">有</option>
+						<option value="2">无</option>
+
+
+					</select>
+				</div>
+				</div>
+```
