@@ -6,7 +6,7 @@
 						<option value="">请选择</option>
 						<option value="1">有</option>
 						<option value="2">无</option>
-
+<option value="3">未知</option>
 
 					</select>
 				</div>
